@@ -1,14 +1,14 @@
 {
-	"name": "unique.util",
+	"name": "@product-live/unique.util",
 	"version": "1.0.7",
 	"keywords": [],
-	"homepage": "https://github.com/anzerr/unique.util#readme",
+	"homepage": "https://github.com/Product-Live/unique.util#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/unique.util/issues"
+		"url": "https://github.com/Product-Live/unique.util/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/unique.util.git"
+		"url": "git@github.com:Product-Live/unique.util.git"
 	},
 	"license": "MIT",
 	"author": "anzerr",
@@ -22,7 +22,7 @@
 	},
 	"dependencies": {},
 	"devDependencies": {
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
